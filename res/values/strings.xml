@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">new cipher</string>
+    <string name="Enter_Text">Enter the text </string>
+    <string name="cDecrypt">decryption</string>
+    <string name="cEncrypt">encritption</string>
+    <string name="rot_13_encryption">ROT-13 Encryption</string>
+    <string name="rot_13_deryption">ROT-13 Deryption</string>
+</resources>
